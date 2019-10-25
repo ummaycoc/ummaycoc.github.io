@@ -17,6 +17,8 @@
   _Easily my favourite periodical. Provides lots of great references for further reading (it's where I found out about Biodiversity in Dead Wood), deeply researched articles, and many pieces of an accessible nature._
 - [Measure and Integration](https://www.maa.org/press/maa-reviews/measure-and-integration)  
   _Probably my favourite mathematical text. Berberian writes wonderfully and has a great sense of humor._
+- [God: A Human History](http://rezaaslan.com/book/god-a-human-history/)  
+  _An interesting analytical view at the development of religion covering various hypotheses on its genesis and evolution._
 
 ## Writings
 - Matthew Maycock and Simha Sethumadhavan. 2016. Hardware Enforced Statistical Privacy. IEEE Comput. Archit. Lett. 15, 1 (January 2016), 21-24. DOI: https://doi.org/10.1109/LCA.2015.2403359
