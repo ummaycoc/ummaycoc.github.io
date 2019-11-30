@@ -29,11 +29,12 @@
 ## Experience
 ### Squarespace
 Senior Software Engineer, Test Engineering team from February, 2019–Present
-- Helped lead the short, medium, and long term goals for the team.
-- Provided day to day guidance on technical matters.
+- Helping lead the short, medium, and long term goals for the team.
+- Providing day to day guidance on technical matters.
 - Mentoring junior engineers in software development.
-- Eliminated large swaths of technical debt, facilitating metric gathering and rapid feature expansion.
-- Enhanced team code review process and culture.
+- Eliminating large swaths of technical debt, facilitating metric gathering and rapid feature expansion.
+- Enhancing team code review process and culture.
+- Leading the design and implementation of a Domain Specific Language (DSL) for translating test plans into end-to-end tests.
 
 ### Integral Ad Science
 Automation Engineer, CICD team from April, 2017–February, 2019
