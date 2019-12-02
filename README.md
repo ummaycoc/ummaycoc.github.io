@@ -5,6 +5,7 @@
   _My mid-2000s era style photoblog._
 
 ## Musings
+- [Advent of Code 2019 in Dyalog APL](https://ummaycoc.github.io/aoc-2019.apl/)
 - [Beating C with Dyalog APL: wc](https://ummaycoc.github.io/wc.apl/)  
   _Inspired by [Beating C With 80 Lines Of Haskell: Wc](https://chrispenner.ca/posts/wc)._
 
