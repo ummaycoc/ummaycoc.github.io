@@ -1,7 +1,7 @@
 # The Life and Times of Matthew Maycock
 
 ## Projects
-- [Lazy Moist Yeast](https://www.LazyMoistYeast.com/)  
+- [Lazy Moist Yeast](https://LazyMoistYeast.com/)  
   _My mid-2000s era style photoblog._
 
 ## Musings
